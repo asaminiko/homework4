@@ -1,0 +1,10 @@
+#input1 {
+  width: 180px;
+}
+#btn {
+  background-color: bisque;
+}
+input {
+  border: 2px solid saddlebrown;
+  border-radius: 20%;
+}
